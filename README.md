@@ -1,2 +1,3 @@
-# curso_em_video_git_github
+# Curso em Vídeo (Youtube)
+
  Aulas do Curso em Video sobre Git e GitHub
